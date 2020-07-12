@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Basic Weather Web Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durban24k/WeatherApp.git"
+  },
+  "author": "Durban24k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durban24k/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/durban24k/WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
